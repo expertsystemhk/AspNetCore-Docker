@@ -1,0 +1,12 @@
+/Users/karl/Projects/AspNetCore-Docker/src/AspMVC
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=AspMVC
+--content-root=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC
+--file=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC/Views/Home/About.cshtml
+--file=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC/Views/Home/Contact.cshtml
+--file=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC/Views/Home/Index.cshtml
+--file=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC/Views/Shared/Error.cshtml
+--file=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC/Views/Shared/_Layout.cshtml
+--file=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC/Views/_ViewImports.cshtml
+--file=/Users/karl/Projects/AspNetCore-Docker/src/AspMVC/Views/_ViewStart.cshtml
